@@ -1,0 +1,20 @@
+/* ***************************************************************************************
+  COPYRIGHT INFORMATION
+******************************************************************************************
+
+Project Name  : rtu_ccxx_spc58ec_greenhill_<version>
+Author        : Thanh Tran
+Email         : thanhvpt11235@gmail.com
+License       : Proprietary
+Year          : 2024
+
+Copyright (c) [2024], Thanh Tran. All rights reserved.
+
+This code is proprietary and may not be reproduced, modified, or 
+distributed without permission from the author. Use of this software
+is subject to the terms and conditions outlined in the agreement between 
+the code owner and third-parties.  
+
+For inquiries or licensing, contact: thanhvpt11235@gmail.com
+
+*************************************************************************************** */
